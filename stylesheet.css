@@ -1,0 +1,30 @@
+.b_tweets .t_w a{
+color: #961B1E !important;
+}
+
+.b_tweets .t_w{
+clear:both;
+border:1px solid #CCCCCC;
+width:99%;
+padding:1%;
+margin-bottom:10px;
+}
+.b_tweets .avatar{
+float: left;
+padding-left: 10px;
+}
+.b_tweets .content
+{
+margin-left: 68px;
+min-height: 48px;
+padding-right: 10px;
+}
+
+.b_tweets .date{
+text-align:right;
+padding-right:10px;
+}
+
+.tweet_h3{
+padding:10px 0px 10px 0px;
+}
